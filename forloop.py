@@ -8,3 +8,4 @@ n=10
 for i range (n):
 
     print ("rohit")
+    print("kadam")
